@@ -61,7 +61,7 @@ new-page: false
 lets put the third choice here
 there is no more text here
 
-- @init: Init
+- @stats: Init
 
 #- @grace: Grace
 #- @jenny: Jenny
@@ -69,8 +69,8 @@ there is no more text here
 #- @sarah: Sarah
 #- @stephanie: Stephanie
 
-@init: Init
-title: Stats
+@stats
+subtitle: Stats
 new-page: true
 is-special: true
 go-to: init 
