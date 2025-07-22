@@ -70,7 +70,7 @@ there is no more text here
 #- @stephanie: Stephanie
 
 @stats
-subtitle: Stats
+title: Stats
 new-page: true
 is-special: true
 go-to: init 
