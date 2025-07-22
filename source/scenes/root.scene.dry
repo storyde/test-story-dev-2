@@ -61,5 +61,15 @@ new-page: false
 lets put the third choice here
 there is no more text here
 
+@second_choice
+title: second
+new-page: true
+tags: market
+
+The market is a lively spot where things are bought and sold. 
+Colorful tents line the space with goods like food, clothes, and 
+treasures. People talk and trade, making the place bustling 
+with activity.
+
 # choices
 - #harbour: Visit the Harbour Master's Hut
