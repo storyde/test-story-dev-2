@@ -1,0 +1,28 @@
+title: Root Scene
+new-page: true
+
+This is the root scene. The root scene is normally used
+as a hub: the choices allow you to go to different sections of your
+story. In shorter works it may just function as the first scene in the
+game, sending the player off into the tree of choices. If the root
+scene doesn't have any choices that it can display, the game is over.
+
+Narration: The group gathers around the virtual roundtable.
+
+Facilitator: Welcome everyone, glad you could make it.
+
+Me: Hi all! Looking forward to today's session.
+
+Librarian: I can provide resources if needed.
+Archivist: I have access to ancient documents.
+
+Scholar: Shall we begin with the first topic? a hub: the choices allow you to go to different sections of your
+story. In shorter works it may just function as the first scene in the
+game, sending the player off into
+
+Historian: I can give some historical context.
+
+Curator: And I have curated some visuals to share.
+
+# Scenes with a top tag can be displayed here.
+- #top
