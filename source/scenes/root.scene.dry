@@ -61,6 +61,9 @@ new-page: false
 lets put the third choice here
 there is no more text here
 
+# choices
+- #market
+
 @second_choice
 title: second
 new-page: true
