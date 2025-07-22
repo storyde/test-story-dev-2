@@ -39,3 +39,10 @@ Curator: And I have curated some visuals to share.
 
 # Scenes with a top tag can be displayed here.
 - #top
+
+# choices
+- @second_scene: Visit the Harbour Master's Hut
+
+# choices
+
+- @harbour_master_hut: Visit the Harbour Master's Hut
