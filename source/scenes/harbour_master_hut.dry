@@ -10,7 +10,6 @@ the harbor.
 
 -@look_map: Examine the map
 
-
 @look_map
 view-if: know_of_map != "seen"
 on-arrival: know_of_map="seen"
