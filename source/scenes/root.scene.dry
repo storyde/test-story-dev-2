@@ -61,12 +61,19 @@ new-page: false
 lets put the third choice here
 there is no more text here
 
-#- @erica: Erica
+- @init: Init
+
 #- @grace: Grace
 #- @jenny: Jenny
 #- @rachel: Rachel
 #- @sarah: Sarah
 #- @stephanie: Stephanie
+
+@init: Init
+title: Stats
+new-page: true
+is-special: true
+go-to: init 
 
 # choices
 - #market
