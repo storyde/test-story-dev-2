@@ -53,11 +53,12 @@ You made a contract with her, or something
 
 # choices
 - @second_choice: the second choice
+- @third_choice: the third choice
 
-@second_choice
+@third_choice
 new-page: false
 
-lets put the second here
+lets put the third choice here
 there is no more text here
 
 # choices
