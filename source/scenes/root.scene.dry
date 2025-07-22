@@ -52,9 +52,9 @@ You, well, you *like* liked her. As usual, you never understood why; just some i
 You made a contract with her, or something
 
 # choices
-- @second: Go to the market
+- @second_choice: the second choice
 
-@second
+@second_choice
 lets put the second here
 there is no more text here
 
